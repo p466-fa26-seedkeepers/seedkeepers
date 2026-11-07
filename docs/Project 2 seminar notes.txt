@@ -1,0 +1,27 @@
+Project 2 seminar notes
+
+seedkeeper
+community library for seeds
+heirloom seeds - keep rare seeds from older generation and pass it
+1. has a lineage
+2. bakeries that use heirloom seeds
+
+how it works: owner wants a library of seeds
+batches of seeds called seed lot: has info abt it (lineage, species, etc)
+certain times of year we can lend visitors seed lots
+- bring back new seeds visitors have grown, we store a new one and update lineage
+- seeds can die: test them to see if they are alive, if they can germinate
+- busiest time of yr is feb. get more requests
+- catalogue, stories of seeds, public
+- members info is private
+- some donors want their name on variety page, some dont
+- when someone brings a new seed, we reject or accept: risk of mimxing seed, want seed to be true to type
+- when they return a lot, hand in envelope, handwritten info abt seed
+	- variety, who grew it, story
+- test for germination, then lend them
+- some dont bring anything back
+- usually borrowed in sprung, returned in fall
+- want to see lineage like graph(fam tree)
+- pricing depends cuz its nearly nonprofit
+- roles: admins (staff), testing/researchers (staff), members-- donors(for their own) vs. nondonors(browse and view and buy/put in order)
+- when ordering: deliver to address, plan, when to grow, where, fertilizer, chemicals, quality of water etc. get info!!
